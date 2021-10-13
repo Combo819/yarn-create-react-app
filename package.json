@@ -1,0 +1,11 @@
+{
+  "name": "yarn-create-react-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "app1",
+    "app2"
+  ]
+}
